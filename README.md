@@ -1,5 +1,5 @@
 # SQL for Data Science
-SQL or Structured Query Language is a powerful language which is used for communicating with and extracting data from databases. A working knowledge of databases and SQL is a must if you want to become a data sientists.
+SQL or Structured Query Language is a powerful language which is used for communicating with and extracting data from databases. A working knowledge of databases and SQL is a must if you want to become a data scientist.
 
 ## Contents
 
